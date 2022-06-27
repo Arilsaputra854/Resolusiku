@@ -1,3 +1,6 @@
 -ig:
  *estetik
  *berbagi ilmu
+-fb:
+ *estetik
+ *livestream
