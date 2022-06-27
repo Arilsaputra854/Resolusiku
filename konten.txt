@@ -1,3 +1,7 @@
 -ig:
  *estetik
  *berbagi ilmu
+-fb:
+ *estetik
+-yt:
+ *edukasi
